@@ -29,4 +29,3 @@ Route::get('mascotas', function(){
 
 Route::apiResource('/apiMascota', apiMascota::class);
 
-//CHUCHO LE GUSTA ANDREA
